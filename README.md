@@ -1,10 +1,8 @@
 <h1 align="center">Hola 👋, soy Jose Ruiz</h1>
 <h3 align="center">Frontend Developer</h3>
 
-<h2>Sobre mi:</2>
-
-<p>Actualmente me encuentro en búsqueda de empleo como frontend Junior, aunque también poseo conocimientos backend. Actualmente estoy haciendo proyectos propios con JavaScript.</p>
-
+##Sobre mi:
+Actualmente me encuentro en búsqueda de empleo como frontend Junior, aunque también poseo conocimientos backend. Actualmente estoy haciendo proyectos propios con JavaScript.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
