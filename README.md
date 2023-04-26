@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Jose Ruiz</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Desarrollador web</h3>
 
 <h2>Sobre mi:</h2>
 Hace unos meses terminé el ciclo de grado superior de Desarrollador de Aplicaciones Web, y realicé prácticas en una empresa. Actualmente me encuentro en búsqueda de empleo como frontend Junior, aunque también poseo conocimientos backend. Actualmente estoy haciendo proyectos propios con JavaScript.
